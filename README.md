@@ -19,20 +19,22 @@ V1.1
 ### Supported Hotends  
 - Dragon Ace Volcano / Dragon Ace (With MZE)  
 
-## BOM / What you need  
-8x M2x8 SHCS (4010 fan mount)  
-8x M2 Nut (4010 fan mount)  
-4x M2.5 Washer (hotend mount)  
-4x M2.5x40 SHCS (hotend mount)  
-4X M3x30 SHCS (toolhead to MGN12H)  
-2x M3x12 SHCS (extruder mount)  
-2x M3 Square Nut (5.5x3.5) (extruder mount)  
-2X M3x6 FHCS (probe mount)  
-2X M3 Heatset Insert (probe mount)  
-4x M2.5x16 (2510 fan mount)  
-  
-2x 4010 blower fans (with A4T inserts)  
-1x Dragon Ace Volcano (With MZE)  
-1x Orbiter 2.0/2.5  
-1x Cartographer V4 / Beacon Rev. H  
-1x 2510 axial fan  
+## BOM
+| Qty | Part | Purpose / Notes |
+|----:|------|-----------------|
+| 8 | M2×8 SHCS | 4010 fan mount |
+| 8 | M2 Nut | 4010 fan mount |
+| 4 | M2.5 Washer | Hotend mount |
+| 4 | M2.5×40 SHCS | Hotend mount |
+| 4 | M3×30 SHCS | Toolhead to MGN12H |
+| 2 | M3×12 SHCS | Extruder mount |
+| 2 | M3 Square Nut (5.5×3.5) | Extruder mount |
+| 2 | M3×6 FHCS | Probe mount |
+| 2 | M3 Heatset Insert | Probe mount |
+| 4 | M2.5×16 | Fan mount |
+| 4 | M2.5 D3.5 Heatset Insert | Fan mount |
+| 2 | 4010 Blower Fan | With A4T inserts |
+| 1 | Dragon Ace Volcano | With MZE |
+| 1 | Orbiter 2.0 / 2.5 | Extruder |
+| 1 | Cartographer V4 / Beacon Rev. H | Probe |
+| 1 | 2510 Axial Fan | — |
