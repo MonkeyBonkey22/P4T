@@ -1,5 +1,5 @@
 # P4T  
-A performance 4010 toolhead.  
+A performance 4010 toolhead. Still in testing.  
 
 ![image of p4t](https://github.com/MonkeyBonkey22/P4T/blob/2089d6c85c80b18b12126846174f018976c5dd65/Images/P4T1.png)  
 
@@ -10,7 +10,7 @@ This is a one piece toolhead designed with center of mass and rigidity in mind. 
 I wanted to switch to a more performant toolhead, but I don't have the space or power for a CPAP.  
 
 ## Features  
-- Supports up to 12mm belts  
+- Supports up to 12mm belts (Monolith only)  
 
 ## Current release  
 V1.1  
@@ -40,3 +40,6 @@ V1.1
 | 1 | Orbiter 2.0 / 2.5 | Extruder |
 | 1 | Cartographer V4 / Beacon Rev. H | Probe |
 | 1 | 2510 Axial Fan | — |  
+
+## Future additions / ideas
+- Support for other hotends and extruders, maybe when done with testing.
