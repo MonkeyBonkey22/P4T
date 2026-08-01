@@ -12,8 +12,7 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 ## Features  
 - Supports up to 12mm belts (Monolith only)  
 
-## Current release  
-V1.1  
+## Current release V1.1    
 
 ### Supported Extruders  
 - Orbiter 2.0/2.5  
