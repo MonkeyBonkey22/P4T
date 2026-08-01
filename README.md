@@ -20,7 +20,7 @@ V1.1
 - Dragon Ace Volcano / Dragon Ace (With MZE)
 
 ## BOM / What you need
-8x M2x8 SHCS -# (4010 fan mount)
+8x M2x8 SHCS (4010 fan mount)
 8x M2 Nut (4010 fan mount)
 4x M2.5 Washer (hotend mount)
 4x M2.5x40 SHCS (hotend mount)
