@@ -1,6 +1,8 @@
 # P4T  
 A performance 4010 toolhead.  
 
+![image of p4t](https://github.com/MonkeyBonkey22/P4T/blob/2089d6c85c80b18b12126846174f018976c5dd65/Images/P4T1.png)  
+
 ## What is this?  
 This is a one piece toolhead designed with center of mass and rigidity in mind. It prints with no supports at all, or minimal supports if you don't have good bridges.  
 
@@ -37,6 +39,4 @@ V1.1
 | 1 | Dragon Ace Volcano | With MZE |
 | 1 | Orbiter 2.0 / 2.5 | Extruder |
 | 1 | Cartographer V4 / Beacon Rev. H | Probe |
-| 1 | 2510 Axial Fan | — |
-
-![image of p4t](https://github.com/MonkeyBonkey22/P4T/blob/2089d6c85c80b18b12126846174f018976c5dd65/Images/P4T1.png)
+| 1 | 2510 Axial Fan | — |  
