@@ -39,4 +39,4 @@ V1.1
 | 1 | Cartographer V4 / Beacon Rev. H | Probe |
 | 1 | 2510 Axial Fan | — |
 
-![image of p4t](https://github.com/MonkeyBonkey22/P4T/blob/main/Images/P4T1.png)
+![image of p4t](https://github.com/MonkeyBonkey22/P4T/blob/2089d6c85c80b18b12126846174f018976c5dd65/Images/P4T1.png)
