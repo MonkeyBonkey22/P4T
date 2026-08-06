@@ -13,14 +13,15 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 - Supports up to 12mm belts (Monolith and Voron)
 - 4010 fans with A4T fan inserts
 
-## Current release V1.1    
+## Current release V1.2 
 
 ### Supported Extruders  
 - Orbiter 2.0/2.5
-- WWBMG (same mounting as Orbiter 2.0)
+- Sherpa Mini
 
 ### Supported Hotends  
-- Dragon Ace Volcano / Dragon Ace (With MZE)  
+- Dragon Ace Volcano / Dragon Ace (With MZE)
+- Chube Compact
 
 ## BOM
 | Qty | Part | Purpose / Notes |
@@ -41,6 +42,3 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 | 1 | Orbiter 2.0 / 2.5 | Extruder |
 | 1 | Cartographer V4 / Beacon Rev. H | Probe |
 | 1 | 2510 Axial Fan | — |  
-
-## Future additions / ideas
-- Support for other hotends and extruders,  in progress.
