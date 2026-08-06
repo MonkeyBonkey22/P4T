@@ -43,4 +43,4 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 | 1 | 2510 Axial Fan | — |  
 
 ## Future additions / ideas
-- Support for other hotends and extruders, maybe when done with testing.
+- Support for other hotends and extruders,  in progress.
