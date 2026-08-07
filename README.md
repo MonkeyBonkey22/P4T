@@ -42,7 +42,7 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 | 1 | 2510 Axial Fan | — |            
                                
 | Hotend | Screws | Qty |
-|----:|------|-----------------|
+|:-----------------------|:---------|----|
 | Dragon Ace Volcano (with MZE) | M2.5x40 SHCS | 4 |
 | Chube Compact | M3x50 SHCS | 4 |                   
                 
