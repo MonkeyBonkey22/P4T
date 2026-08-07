@@ -28,8 +28,6 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 |----:|------|-----------------|
 | 8 | M2×8 SHCS | 4010 fan mount |
 | 8 | M2 Nut | 4010 fan mount |
-| 4 | M2.5 Washer | Hotend mount |
-| 4 | M2.5×40 SHCS | Hotend mount |
 | 4 | M3×30 SHCS | Toolhead to MGN12H |
 | 2 | M3×12 SHCS | Extruder mount |
 | 2 | M3 Square Nut (5.5×3.5) | Extruder mount |
@@ -38,12 +36,17 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 | 4 | M2.5×16 | Fan mount |
 | 4 | M2.5 D3.5 Heatset Insert | Fan mount |
 | 2 | 4010 Blower Fan | With A4T inserts |
-| 1 | Dragon Ace Volcano | With MZE |
-| 1 | Orbiter 2.0 / 2.5 | Extruder |
+| 1 | Hotend of choice | Hotend |
+| 1 | Extruder of choice | Extruder |
 | 1 | Cartographer V4 / Beacon Rev. H | Probe |
-| 1 | 2510 Axial Fan | — |  
-
-**Note that you will need M3x50 SHCS and M3 washers for Chube Compact. You might need to file down the M3x55 screws.**          
+| 1 | 2510 Axial Fan | — |            
+                               
+| Hotend | Screws | Qty |
+|----:|------|-----------------|
+| Dragon Ace Volcano (with MZE) | M2.5x40 SHCS | 4 |
+| Chube Compact | M3x50 SHCS | 4 |                   
+                
+**Make sure you have washers for your hotend's screws.**          
 **You will need a Monolith Universal SLM Belt Clamp for Monolith belts.**
 
 ## Credits
