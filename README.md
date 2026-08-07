@@ -42,6 +42,7 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 | 1 | Orbiter 2.0 / 2.5 | Extruder |
 | 1 | Cartographer V4 / Beacon Rev. H | Probe |
 | 1 | 2510 Axial Fan | — |  
+
 **Note that you will need M3x55 and M3 washers for Chube Compact. You might need to file down the M3x55 screws.**
 
 ## Credits
