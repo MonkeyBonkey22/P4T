@@ -23,7 +23,7 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 - Dragon Ace Volcano / Dragon Ace (With MZE)
 - Chube Compact
 
-## BOM
+## General BOM
 | Qty | Part | Purpose / Notes |
 |----:|------|-----------------|
 | 8 | M2×8 SHCS | 4010 fan mount |
@@ -46,8 +46,12 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 | Dragon Ace Volcano (with MZE) | M2.5x40 SHCS | 4 |
 | Chube Compact | M3x50 SHCS | 4 |                   
                 
+### Notes:        
 **Make sure you have washers for your hotend's screws.**          
-**You will need a Monolith Universal SLM Belt Clamp for Monolith belts.**
+**You will need a Monolith Universal SLM Belt Clamp for Monolith belts.**    
+**Sherpa Mini probably needs longer screws (M3x14 or M3x16?)       
+**Orbiter 2 mounting braces are optional but recommended. **         
+	**-Additional hardware: 2x M3x25, 2x M3 Hex Nuts, 2x M3 Square Nuts, 1x M3x30, 1x M3x16. **        
 
 ## Credits
 Chaz for early feedback         
