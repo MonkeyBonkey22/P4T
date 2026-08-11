@@ -30,7 +30,7 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 | 8 | M2 Nut | 4010 fan mount |
 | 4 | M3×30 SHCS | Toolhead to MGN12H |
 | 2 | M3×12 SHCS | Extruder mount |
-| 2 | M3 Square Nut (5.5×3.5) | Extruder mount |
+| 2 | M3 Square Nut | Extruder mount |
 | 2 | M3×6 FHCS | Probe mount |
 | 2 | M3 Heatset Insert | Probe mount |
 | 4 | M2.5×16 | Fan mount |
