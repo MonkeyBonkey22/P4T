@@ -13,7 +13,7 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 - Supports up to 12mm belts (Monolith and Voron)
 - 4010 fans with A4T fan inserts
 
-## Current release V1.3 
+## Current release V1.4 
 
 ### Supported Extruders  
 - Orbiter 2.0/2.5 (with braces)
@@ -29,7 +29,6 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 | 8 | M2×8 SHCS | 4010 fan mount |
 | 8 | M2 Nut | 4010 fan mount |
 | 4 | M3×30 SHCS | Toolhead to MGN12H |
-| 2 | M3×12 SHCS | Extruder mount |
 | 2 | M3 Square Nut | Extruder mount |
 | 2 | M3×6 FHCS | Probe mount |
 | 2 | M3 Heatset Insert | Probe mount |
@@ -45,18 +44,22 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 |:-----------------------|:---------|----|
 | Dragon Ace Volcano (with MZE) | M2.5x40 SHCS | 4 |
 | Chube Compact | M3x50 SHCS | 4 |                   
-                
+
+| Extruder | Screws | Qty |
+|:-----------------------|:---------|----|
+| Orbiter 2 | M3x12 SHCS | 2 |
+| Sherpa Mini| M3x14/16 SHCS | 2 |                   
+
 ### Notes:        
 **Make sure you have washers for your hotend's screws.**          
-**You will need a Monolith Universal SLM Belt Clamp for Monolith belts.**    
-**Sherpa Mini probably needs longer screws (M3x14 or M3x16?)**       
-~~**Orbiter 2 mounting braces are optional but highly recommended.~~**            
-  **~~-Additional hardware: 2x M3x25, 2x M3 Hex Nuts, 2x M3 Square Nuts, 1x M3x35, 1x M3x16.~~**            
+**You will need a Monolith Universal SLM Belt Clamp for Monolith belts.**       
+**Orbiter 2 mounting braces are optional but highly recommended.**            
+  **-Additional hardware: 3x M3x16 (replaces M3x12), 1x M3 Hex Nuts, 2x M3 Square Nuts, 1x M3x35.**            
 
 ## Printing
- - ~~The Orbiter braces need supports. Make sure the braces are oriented correctly, they both should be on their flat faces.~~
  - Ducts might need support.
  - Use standard Monolith print settings
+ - Calibrate dimensional shrinkage for the filament you are using
 
 ## Credits
 Chaz for early feedback         
