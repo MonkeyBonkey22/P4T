@@ -1,7 +1,8 @@
 # P4T  
 A performance 4010 toolhead. Still in testing.  
 
-![image of p4t](https://github.com/MonkeyBonkey22/P4T/blob/cfcda1ca6f172d31215f647a6b9a5e6fd60ac2dd/Images/P4T1.png) ![com](https://github.com/MonkeyBonkey22/P4T/blob/68c47a17571fd89dc315ea6d4ca1e546c70f236c/Images/COM.png)
+![image of p4t](https://github.com/MonkeyBonkey22/P4T/blob/77faf71acfdc5d601d252ef4e1adbcc46c940ffd/Images/P4T%20V1.4%20Render.png)      
+![com](https://github.com/MonkeyBonkey22/P4T/blob/77faf71acfdc5d601d252ef4e1adbcc46c940ffd/Images/COM%20P4TV1_4.png)
 
 ## What is this?  
 This is a one piece toolhead designed with center of mass and rigidity in mind. It prints with no supports at all, or minimal supports if you don't have good bridges.  
