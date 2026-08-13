@@ -2,7 +2,8 @@
 A performance 4010 toolhead.
 
 ![image of p4t](https://github.com/MonkeyBonkey22/P4T/blob/77faf71acfdc5d601d252ef4e1adbcc46c940ffd/Images/P4T%20V1.4%20Render.png)      
-![com](https://github.com/MonkeyBonkey22/P4T/blob/77faf71acfdc5d601d252ef4e1adbcc46c940ffd/Images/COM%20P4TV1_4.png)
+![com](https://github.com/MonkeyBonkey22/P4T/blob/77faf71acfdc5d601d252ef4e1adbcc46c940ffd/Images/COM%20P4TV1_4.png)  
+(Orbiter 2 + braces, stainless steel hardware, Dragon Ace Volcano, printed from PET-CF). CAD says it weighs 443g. IRL it will probably be 450g.
 
 ## What is this?  
 This is a one piece toolhead designed with center of mass and rigidity in mind. The main body prints with no supports at all, or minimal supports if you don't have good bridges. 
