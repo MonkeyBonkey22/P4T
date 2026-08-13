@@ -1,5 +1,5 @@
 # P4T  
-A performance 4010 toolhead.
+A performance, single body 4010 toolhead.
 
 ![image of p4t](https://github.com/MonkeyBonkey22/P4T/blob/77faf71acfdc5d601d252ef4e1adbcc46c940ffd/Images/P4T%20V1.4%20Render.png)      
 ![com](https://github.com/MonkeyBonkey22/P4T/blob/77faf71acfdc5d601d252ef4e1adbcc46c940ffd/Images/COM%20P4TV1_4.png)  
