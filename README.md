@@ -58,6 +58,7 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 
 ## Printing
  - Ducts might need support.
+ - Orbiter 2 Braces need support, the locations are obvious
  - Use standard Monolith print settings
  - Calibrate dimensional shrinkage for the filament you are using
 
