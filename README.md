@@ -52,11 +52,12 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 | Orbiter 2 | M3x12 SHCS | 2 |
 | Sherpa Mini| M3x14/16 SHCS | 2 |                   
 
-### Notes:        
-**Make sure you have washers for your hotend's screws.**          
-**You will need a Monolith Universal SLM Belt Clamp for Monolith belts.**       
-**Orbiter 2 mounting braces are optional but highly recommended.**            
-  **-Additional hardware: 3x M3x16 (replaces M3x12), 1x M3 Hex Nuts, 2x M3 Square Nuts, 1x M3x35.**            
+### Notes:         
+ - Make sure you have washers for your hotend's screws.          
+ - You will need a Monolith Universal SLM Belt Clamp for Monolith belts.       
+ - Orbiter 2 mounting braces are optional but highly recommended.
+   -Additional hardware: 3x M3x16 (replaces M3x12), 1x M3 Hex Nuts, 2x M3 Square Nuts, 1x M3x35.
+ - I highly recommend using "quality" M2 and M2.5 screws and "quality" drivers. Small hardware is easy to strip, especially M2.
 
 ## Printing
  - Ducts probably need support.
