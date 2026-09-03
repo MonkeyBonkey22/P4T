@@ -6,7 +6,7 @@ A performance, single body 4010 toolhead.
 (Orbiter 2 + braces, stainless steel hardware, Dragon Ace Volcano, printed from PET-CF). CAD says it weighs 443g. IRL it will probably be 450g.
 
 ## What is this?  
-This is a one piece toolhead designed with center of mass and rigidity in mind. The main body prints with no supports at all, or minimal supports if you don't have good bridges. 
+This is a one piece toolhead designed with center of mass and rigidity in mind. The main body prints with minimal supports (if you don't have good bridges). 
 
 ## Why?  
 I wanted to switch to a more performant toolhead, but I don't have the space or power for a CPAP.  
@@ -25,7 +25,7 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 - Dragon Ace Volcano / Dragon Ace (With MZE)
 - Chube Compact
 
-## General BOM
+## BOM
 | Qty | Part | Purpose / Notes |
 |----:|------|-----------------|
 | 8 | M2×8 SHCS | 4010 fan mount |
@@ -52,17 +52,17 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 | Orbiter 2 | M3x12 SHCS | 2 |
 | Sherpa Mini| M3x14/16 SHCS | 2 |                   
 
-### Notes:        
-**Make sure you have washers for your hotend's screws.**          
-**You will need a Monolith Universal SLM Belt Clamp for Monolith belts.**       
-**Orbiter 2 mounting braces are optional but highly recommended.**            
-  **-Additional hardware: 3x M3x16 (replaces M3x12), 1x M3 Hex Nuts, 2x M3 Square Nuts, 1x M3x35.**            
+### Notes:         
+ - Make sure you have washers for your hotend's screws.          
+ - You will need a Monolith Universal SLM Belt Clamp for Monolith belts.       
+ - Orbiter 2 mounting braces are optional but highly recommended.
+   -Additional hardware: 3x M3x16 (replaces M3x12), 1x M3 Hex Nuts, 2x M3 Square Nuts, 1x M3x35.
+ - I highly recommend using "quality" M2 and M2.5 screws and "quality" drivers. Small hardware is easy to strip, especially M2.
 
 ## Printing
- - Ducts might need support.
- - Orbiter 2 Braces need support, the locations are obvious
- - Use standard Monolith print settings (6 walls, 6 top/bottom layers, 40-60% infill)
- - Calibrate dimensional shrinkage for the filament you are using
+ - Ducts probably need support.
+ - Use standard "Monolith" print settings (6 walls, 6 top/bottom layers, 40-60% infill)
+ - Calibrate dimensional shrinkage for the filament you are using. The dimensions in the model are NOT made to counter shrinkage of ASA and ABS.
 
 ## Credits
 Chaz for early feedback         
