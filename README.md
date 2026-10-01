@@ -67,3 +67,4 @@ I wanted to switch to a more performant toolhead, but I don't have the space or 
 ## Credits
 Chaz for early feedback         
 theCody501 for testing
+mafo04 for testing with chube compact
