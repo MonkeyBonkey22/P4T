@@ -12,7 +12,7 @@ This is a one piece toolhead designed with center of mass and rigidity in mind. 
 I wanted to switch to a more performant toolhead, but I don't have the space or power for a CPAP.  
 
 ## Features  
-- Supports up to 12mm belts (Monolith and Voron)
+- Supports up to 12mm belts (Monolith only, voron will be readded later)
 - 4010 fans with A4T fan inserts
 
 ## Current release V1.4 
